@@ -4,7 +4,7 @@ Soy un apasionado programador frontend con experiencia como Junior Full Stack De
 
 ## Sobre mí
 
-- **Nombre:** Luis Martinez+
+- **Nombre:** Luis Martinez
 - **Especialidad:** Programación Frontend
 - **Experiencia:** Junior Full Stack Developer
 - **Intereses:** Desarrollo web, tecnologías de frontend, interfaces de usuario y soluciones innovadoras
